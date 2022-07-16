@@ -1,3 +1,4 @@
+' This Code Not Work On VB6 !!!!! None of the codes are suitable for VB6, even existing Dll files cannot be registered in the program!
 VERSION 5.00
 Begin VB.Form frmMain 
    BorderStyle     =   1  'Fixed Single
