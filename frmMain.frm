@@ -1,3 +1,4 @@
+' This Code Not Work On VB6 !!!!!
 VERSION 5.00
 Begin VB.Form frmMain 
    BorderStyle     =   1  'Fixed Single
